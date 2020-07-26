@@ -78,7 +78,7 @@ h1, h2, h3, p
 	flex-flow: column;
 }
 
-#welcome-text h2
+#main-text
 {
 	margin-bottom: 20px;
 	font-size: 64px;
@@ -259,7 +259,7 @@ h1, h2, h3, p
 		align-items: center;
 	}
 
-	#welcome-text h2,p
+	#main-text
 	{
 		margin: 10px;
 		font-size: 38px;
